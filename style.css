@@ -46,6 +46,7 @@ nav ul li a {
   font-weight: bold;/* στυλ γραμματοσειράς */
   font-family: sans-serif;
   transition: opacity 0.3s ease-in-out;
+  background-color: aliceblue;
 }
 /* οταν κάνεις hover */
 nav ul li a:hover {
